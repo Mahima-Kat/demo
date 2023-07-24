@@ -1,0 +1,1 @@
+The text dir is the destination folder.
